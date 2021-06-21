@@ -46,11 +46,9 @@ img[alt="instagram"]{
     margin-top: 2.1%;
 }
 
-/*  */
+/*  input:text and input:password class */
 .input_field{
-    /* background-color: white; */
     border: 1px  rgba(220, 220, 220, 0.582);
-
 }
 
 /* telefon numarası, kullanıcı adı veya eposta */
